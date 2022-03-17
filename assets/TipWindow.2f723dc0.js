@@ -1,0 +1,1 @@
+import{_ as a,f as e,B as n,E as r,g as _,G as c,A as p,O as d}from"./vendor.6b481748.js";const i={key:0,class:"tip"},l={props:["show"],setup(t){const s=t;return(o,u)=>(e(),n(d,{name:"fade"},{default:r(()=>[s.show?(e(),_("div",i,[c(o.$slots,"content",{},void 0,!0)])):p("",!0)]),_:3}))}};var m=a(l,[["__scopeId","data-v-27e8956c"]]);export{m as T};

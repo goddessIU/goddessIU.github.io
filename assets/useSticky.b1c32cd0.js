@@ -1,0 +1,1 @@
+import{r}from"./vendor.6b481748.js";const c=()=>window.pageYOffset||document.documentElement.scrollTop||document.body.scrollTop,n=e=>{let o=r(!1);return{useStickyEffect:()=>{let t=c(),l;typeof e=="number"?l=e:typeof e=="string"&&(l=document.querySelector(e).clientHeight),t>l?o.value=!0:o.value=!1},isSticky:o}};export{n as u};

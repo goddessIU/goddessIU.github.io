@@ -1,0 +1,1 @@
+import{_ as r,f as t,g as _,G as o}from"./vendor.6b481748.js";const n={},s={class:"formItemBar"};function a(e,c){return t(),_("div",s,[o(e.$slots,"input",{},void 0,!0)])}var i=r(n,[["render",a],["__scopeId","data-v-4122a8fc"]]);export{i as L};
