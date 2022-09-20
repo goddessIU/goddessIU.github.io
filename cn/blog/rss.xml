@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>George's Site Blog</title>
-        <link>https://www.george-wang.site/blog</link>
+        <link>https://www.george-wang.site/cn/blog</link>
         <description>George's Site Blog</description>
-        <lastBuildDate>Tue, 20 Sep 2022 08:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 13:52:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <language>en</language>
+        <language>cn</language>
         <item>
             <title><![CDATA[jal]]></title>
-            <link>https://www.george-wang.site/blog/jal</link>
+            <link>https://www.george-wang.site/cn/blog/jal</link>
             <guid>/jal</guid>
-            <pubDate>Tue, 20 Sep 2022 08:10:33 GMT</pubDate>
-            <description><![CDATA[hello , the content is jal.]]></description>
-            <content:encoded><![CDATA[<p>hello , the content is jal.</p>]]></content:encoded>
+            <pubDate>Tue, 20 Sep 2022 13:52:31 GMT</pubDate>
+            <description><![CDATA[你好，这是jal]]></description>
+            <content:encoded><![CDATA[<p>你好，这是jal</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
