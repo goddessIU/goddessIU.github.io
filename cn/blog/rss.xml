@@ -4,7 +4,7 @@
         <title>George's Site Blog</title>
         <link>https://www.george-wang.site/cn/blog</link>
         <description>George's Site Blog</description>
-        <lastBuildDate>Tue, 20 Sep 2022 13:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 14:03:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>cn</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[jal]]></title>
             <link>https://www.george-wang.site/cn/blog/jal</link>
             <guid>/jal</guid>
-            <pubDate>Tue, 20 Sep 2022 13:52:31 GMT</pubDate>
+            <pubDate>Tue, 20 Sep 2022 14:03:55 GMT</pubDate>
             <description><![CDATA[你好，这是jal]]></description>
             <content:encoded><![CDATA[<p>你好，这是jal</p>]]></content:encoded>
         </item>
